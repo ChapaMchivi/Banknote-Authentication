@@ -1,0 +1,10 @@
+# Ignore system and temp files
+*.log
+*.tmp
+*.bak
+__pycache__/
+.ipynb_checkpoints/
+.DS_Store
+Thumbs.db
+AppData/
+Temp/
